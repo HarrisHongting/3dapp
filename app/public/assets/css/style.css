@@ -1,0 +1,24 @@
+.navbar {
+  padding-left: 24px;
+  padding-right: 24px;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-brand {
+  display: block;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative;
+  text-decoration: none;
+  border-top: 2px solid red;
+  border-top-style: dashed;
+  border-top-color: red;
+  border-bottom: 2px solid red;
+  border-bottom-style: dashed;
+  border-bottom-color: red;
+}
